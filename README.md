@@ -1,4 +1,4 @@
-# s0urce-io-hack
+# s0urce-io-automation-script
 Script to automatically enter the words to hack your opponents on s0urce.io
 Randomly discovered the game and although it's a great idea, it doesn't have any "endgame" features and even without a script, it's easy to reach endgame in a few minutes at most, which makes the game a bit boring. And because it's a typing game, I quickly got the idea to write a quick script which automatically enters the words.
 It actually isn't as easy, as just copying the displayed text to the input box as the text is displayed as an image. But the image paths are not random so that was easy to bypass, the script just has a map with image path to the word. If a word is unknown, the user will be prompted.
